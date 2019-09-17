@@ -13,3 +13,10 @@ for(int i = 0; i < 10; i++){ Console.WriteLine(i);}
 this is a list;
 	list item 1
 	list item 2
+
+```
+//this is my first time using GitHub
+I am just learning how to use the system right now
+
+~~~
+```
